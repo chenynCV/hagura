@@ -4,6 +4,6 @@ layout: post
 permalink: /contact/
 ---
 
-May be a contact form.
+Wechat: chenyn2014
 
 Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
