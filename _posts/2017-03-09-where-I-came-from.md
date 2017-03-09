@@ -4,7 +4,7 @@ title:  "Where I came from ..."
 date:   2017-03-09
 ---
 
-[My CSDN blog:}(http://blog.csdn.net/u010278305)
+[My CSDN blog:](http://blog.csdn.net/u010278305)
 
 - [《深度学习》学习笔记（一）：稀疏自编码器（Sparse Autoencoder）](http://blog.csdn.net/u010278305/article/details/46881443)
 - [《机器学习》学习笔记（二）：神经网络](http://blog.csdn.net/u010278305/article/details/44079493)
